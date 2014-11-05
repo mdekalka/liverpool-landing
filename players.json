@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Steven",
+        "surname": "Gerrard",
+        "number": 8,
+        "position": "Midfielder",
+        "height": "1.83m",
+        "weight": "83kg",
+        "age": 34,
+        "goals": 176,
+        "img": "img/gerrard.jpeg"
+    },
+    {
+        "name": "Raheem",
+        "surname": "Sterling",
+        "number": 31,
+        "position": "Forward",
+        "height": "1.70m",
+        "weight": "69kg",
+        "age": 34,
+        "goals": 15,
+        "img": "img/sterling.jpg"
+    },
+    {
+        "name": "Glen",
+        "surname": "Johnson",
+        "number": 2,
+        "position": "Defender",
+        "height": "1.82m",
+        "weight": "70kg",
+        "age": 30,
+        "goals": 8,
+        "img": "img/glen.jpg"
+    }
+
+]
